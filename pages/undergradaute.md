@@ -4,6 +4,6 @@ permalink: "/undergraduate"
 layout: page
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## Arabic minor:
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+The minor in Arabic focuses on intermediate and advanced language skills and an understanding of contemporary Arabic culture. Students who already have a grounding in Arabic and are interested in languages, literature, film, and culture will find this minor of particular interest. This program is ideal for students considering careers in international business, government service, or other professions where foreign language proficiency is important. Students who place out of one or more of the Arabic language courses may replace those requirements with independent study or electives as approved by the Arabic faculty advisor. Electives must focus exclusively on Arab literature, film, history, or culture.
