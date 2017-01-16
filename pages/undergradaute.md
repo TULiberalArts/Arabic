@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 ## Arabic minor:
@@ -12,4 +13,5 @@ Arabic courses in literature, film and popular culture — all given in translat
 
 ## Course Offerings
 
-- Minor and Certificate in Arabic
+- [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
+- [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
