@@ -1,6 +1,6 @@
 -
   name: "Alexa Firat"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "334"
   building: "Anderson Hall"  
   email: "afirat@temple.edu"
@@ -12,7 +12,7 @@
     PhD, University of Pennsylvania, MA, University of Texas at Austin
 
   name: "Gordon Witty"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "340"
   building: "Anderson Hall"  
   email: " gwitty@temple.edu"
