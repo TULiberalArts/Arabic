@@ -1,5 +1,4 @@
--
-  name: "Alexa Firat"
+- name: "Alexa Firat"
   title: <i>Assistant Professor</i>
   room: "334"
   building: "Anderson Hall"  
@@ -11,7 +10,7 @@
   bio: >
     PhD, University of Pennsylvania, MA, University of Texas at Austin
 
-  name: "Gordon Witty"
+- name: "Gordon Witty"
   title: <i>Assistant Professor</i>
   room: "340"
   building: "Anderson Hall"  
