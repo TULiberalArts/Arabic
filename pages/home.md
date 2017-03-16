@@ -5,7 +5,7 @@ layout: home
 feature: false
 feature-title: 
 feature-body: 
-feature-image: media/China.png
+feature-image: media/Arabic.png
 published: true
 ---
 ## Arabic Minor:
