@@ -2,13 +2,12 @@
 title: Home
 permalink: /
 layout: home
-feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature: true
+feature-title: Feature Title
+feature-body: Feature content goes here.
+feature-image: media/hero_bg.png
 published: true
 ---
-![]({{site.baseurl}}/media/iStock_Arabic%20Nabawi%20Mosque.jpg)
 
 ## Arabic Minor:
 
@@ -21,7 +20,7 @@ Arabic courses in literature, film and popular culture — all given in translat
 - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
 
-## Contacts 
+## Contacts
 
 ## Program Chair
 
@@ -30,7 +29,7 @@ Louis Mangione, Department Chair<br />
 [(215) 204-8247](tel:2152048247)<br />
 [mangione@temple.edu](mailto: mangione@temple.edu)<br />
 
-## Minor and Certificate in Arabic: 
+## Minor and Certificate in Arabic:
 
 Gordon Witty, Ph.D.<br />
 340 Anderson Hall <br />
