@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Program Chair Chair
+## Program Chair
 
 Louis Mangione, Department Chair<br />
 347 Anderson Hall<br />
