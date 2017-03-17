@@ -5,15 +5,15 @@ layout: home
 feature: true
 feature-title: Minor in Arabic
 feature-body: >-
-  The minor in Arabic focuses on intermediate and advanced language
-  skills and an understanding of contemporary Arabic culture. Students
-  who already have a grounding in Arabic and are interested in languages,
-  literature, film, and culture will find this minor of particular interest.
+  The minor in Arabic focuses on intermediate and advanced language skills and
+  an understanding of contemporary Arabic culture. Students who already have a
+  grounding in Arabic and are interested in languages, literature, film, and
+  culture will find this minor of particular interest.
 feature-image: media/hero_bg.png
 published: true
 ---
 
-## Arabic Minor:
+## Minor in Arabic:
 
 This program is ideal for students considering careers in international business, government service, or other professions where foreign language proficiency is important. Students who place out of one or more of the Arabic language courses may replace those requirements with independent study or electives as approved by the Arabic faculty advisor. Electives must focus exclusively on Arab literature, film, history, or culture.
 
@@ -26,14 +26,14 @@ Arabic courses in literature, film and popular culture — all given in translat
 
 ## Contacts
 
-## Program Chair
+### Program Chair
 
 Louis Mangione, Department Chair<br />
 347 Anderson Hall<br />
 [(215) 204-8247](tel:2152048247)<br />
 [mangione@temple.edu](mailto: mangione@temple.edu)<br />
 
-## Minor and Certificate in Arabic:
+### Minor and Certificate in Arabic:
 
 Gordon Witty, Ph.D.<br />
 340 Anderson Hall <br />
