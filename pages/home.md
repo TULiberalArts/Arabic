@@ -12,7 +12,7 @@ feature-body: >-
 feature-image: media/hero_bg.png
 published: true
 ---
-This program is ideal for students considering careers in international business, government service, or other professions where foreign language proficiency is important. Students who place out of one or more of the Arabic language courses may replace those requirements with independent study or electives as approved by the Arabic faculty advisor. Electives must focus exclusively on Arab literature, film, history, or culture.
+This program is ideal for students considering careers in international business, government service or other professions where foreign language proficiency is important. Students who place out of one or more of the Arabic language courses may replace those requirements with independent study or electives as approved by the Arabic faculty advisor. Electives must focus exclusively on Arab literature, film, history or culture.
 
 Arabic courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of the Middle East. We strongly encourage our students to study in countries where Arabic is the main language of communication for a semester or more.
 
@@ -30,7 +30,7 @@ Louis Mangione, Department Chair<br />
 [(215) 204-8247](tel:2152048247)<br />
 [mangione@temple.edu](mailto: mangione@temple.edu)<br />
 
-### Minor and Certificate in Arabic:
+### Minor and Certificate in Arabic
 
 Gordon Witty, Ph.D.<br />
 340 Anderson Hall <br />
