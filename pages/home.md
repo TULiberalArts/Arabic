@@ -21,7 +21,7 @@ Arabic courses in literature, film and popular culture — all given in translat
 - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
 
-## Contacts
+## Contact Us
 
 ### Program Chair
 
