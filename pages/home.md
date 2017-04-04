@@ -5,10 +5,10 @@ layout: home
 feature: true
 feature-title: Minor in Arabic
 feature-body: >-
-  The minor in Arabic focuses on intermediate and advanced language skills and
-  an understanding of contemporary Arabic culture. Students who already have a
-  grounding in Arabic and are interested in languages, literature, film, and
-  culture will find this minor of particular interest.
+  Our minor in Arabic focuses on intermediate and advanced language skills and
+  an understanding of contemporary Arabic culture. If you have a grounding in
+  Arabic and are interested in languages, literature, film and culture, a minor
+  in Arabic could be right for you.
 feature-image: media/hero_bg.png
 published: true
 ---
