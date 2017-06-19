@@ -21,17 +21,33 @@ Arabic courses in literature, film and popular culture — all given in translat
 ## Course Offerings
 
 - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
-- [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)
+- [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)<br/>
 
-## Contact Us
+ <hr>
+   
+### Contact Us
 
-### Program Chair:
-Louis Mangione, Department Chair<br />
-347 Anderson Hall<br />
-[(215) 204-8247](tel:2152048247)<br />
-[mangione@temple.edu](mailto: mangione@temple.edu)<br />
+  <hr>
 
-### Minor and Certificate in Arabic:
-Gordon Witty, Ph.D.<br />
-340 Anderson Hall <br />
-[gwitty@temple.edu](mailto:gwitty@temple.edu)<br />
+  **Chair:** <br/>
+  Louis Mangione, Ph.D.<br/>
+  347 Anderson Hall<br/>
+  [(215) 204-8247](tel:2152048247)<br/>
+  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
+
+  <hr>
+
+  **Minor and Certificate in Arabic:** <br/>
+  Gordon Witty, Ph.D.<br />
+  340 Anderson Hall <br />
+  [gwitty@temple.edu](mailto:gwitty@temple.edu)<br />
+
+  <hr>
+  
+  **Administrator:** <br/>
+  Michelle Pugliese <br/>
+  429 Anderson Hall <br/>
+  [(215) 204-5628](tel:2152045628) <br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
+  
+  <hr>
