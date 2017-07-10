@@ -23,31 +23,27 @@ Arabic courses in literature, film and popular culture — all given in translat
 - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/certificate-specialization-arabic/)<br/>
 
- <hr>
+   ___
    
-### Contact Us
+  **Chair:**  
+   Louis Mangione, Ph.D.  
+   347 Anderson Hall  
+   [(215) 204-8247](tel:2152048247)  
+   [mangione@temple.edu](mailto:mangione@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Louis Mangione, Ph.D.<br/>
-  347 Anderson Hall<br/>
-  [(215) 204-8247](tel:2152048247)<br/>
-  [mangione@temple.edu](mailto:mangione@temple.edu)<br/>
-
-  <hr>
-
-  **Minor and Certificate in Arabic:** <br/>
-  Gordon Witty, Ph.D.<br />
-  340 Anderson Hall <br />
-  [gwitty@temple.edu](mailto:gwitty@temple.edu)<br />
-
-  <hr>
-  
-  **Administrator:** <br/>
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
-  
-  <hr>
+   **Coordinator:**  
+   Peggy Shadding  
+   Anderson Hall    
+   [(215) 204-8267](tel:2152048267)   
+   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
+---
