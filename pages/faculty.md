@@ -1,7 +1,7 @@
 ---
 title: Faculty
-meta-description:
-meta-keywords:
+description:
+keywords:
 permalink: /faculty/
 layout: faculty
 published: true
