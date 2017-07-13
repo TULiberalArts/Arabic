@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-description: 100 - 160 charaters
+meta-description: Our students go on to careers and graduate education in a variety of fields, from education and the media to business and government.
 meta-keywords: transfer, visit, careers, arabic
 permalink: /next-stops/
 layout: page
