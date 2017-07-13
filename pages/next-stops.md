@@ -1,5 +1,6 @@
 ---
 title: Next Stops
+meta-description: 100 - 160 charaters
 meta-keywords: transfer, visit, careers, arabic
 permalink: /next-stops/
 layout: page
