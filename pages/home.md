@@ -1,6 +1,6 @@
 ---
 title: Home
-meta-description: 100 or so words
+meta-description: Arabic courses in literature, film and popular culture invite students from any major to develop familiarity with the cultures of the Middle East
 meta-keywords: arabic, language, minor
 permalink: /
 layout: home
