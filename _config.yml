@@ -3,6 +3,7 @@
 title: Arabic
 # Subdirectory (with / at only at beginning)
 baseurl: /arabic
+url: https://www.cla.temple.edu/arabic
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
@@ -59,7 +60,7 @@ college:
   url: https://liberalarts.temple.edu/
   
 program_news: https://liberalarts.temple.edu/news/arabic
-program_events: https://events.temple.edu/department/arabic 
+program_events: https://events.temple.edu/department/arabic
 
 
 # Google Tag Manager OR Google Analytics
