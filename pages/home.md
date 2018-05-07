@@ -4,7 +4,7 @@ permalink: /
 layout: home3
 description: >-
   Arabic courses in literature, film and popular culture invite students from any major to develop familiarity with the cultures of the   Middle East.
-keywords: 'arabic, language, minor'
+keywords: 'arabic, language, minor, certificate, course offerings'
 feature: true
 feature-title: Minor in Arabic
 feature-image: media/hero_bg.png
