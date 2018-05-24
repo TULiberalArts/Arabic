@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home3
+layout: tla_home
 description: >-
   Arabic courses in literature, film and popular culture invite students from any major to develop familiarity with the cultures of the   Middle East.
 keywords: 'arabic, language, minor, certificate, course offerings'
@@ -49,4 +49,3 @@ Arabic courses in literature, film and popular culture — all given in translat
    [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
 
 ___
-
