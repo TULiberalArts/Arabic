@@ -1,7 +1,7 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
 description: >-
   Our faculty members work closely with our students in small, intensive
   classes.
