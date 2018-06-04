@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Our students go on to careers and graduate education in a variety of fields,
-  from education and the media to business and government.
+  Visit us, know your transfer options, apply, and see where a degree
+  in Arabic from Temple University’s College of Liberal Arts can take you!
 keywords: 'transfer, visit, careers, arabic'
 # custom variables
 sidebar: false
