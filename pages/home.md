@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Arabic courses in literature, film and popular culture invite students from any major to develop familiarity with the cultures of the   Middle East.
+  Earn a Minor or a Certificate of Specialization in Arabic at Temple University’s 
+  College of Liberal Arts. Learn more about our course offerings here.
 keywords: 'arabic, language, minor, certificate, course offerings'
 # custom variables
 sidebar: true
