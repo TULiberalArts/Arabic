@@ -6,8 +6,8 @@ layout: tla_faculty
 # meta-data variables
 title: Faculty
 description: >-
-  Our faculty members work closely with our students in small, intensive
-  classes.
+  Meet our Arabic department faculty! Our faculty members at Temple University’s
+  College of Liberal Arts work closely with our students in small, intensive classes.
 keywords: 'faculty, professors, arabic'
 # custom variables
 sidebar: false
