@@ -3,6 +3,7 @@
 title: Arabic
 # Subdirectory (with / at only at beginning)
 baseurl: /arabic
+# url spits sitemap
 url: https://www.cla.temple.edu/arabic
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
