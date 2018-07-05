@@ -47,11 +47,3 @@ Arabic courses in literature, film and popular culture — all given in translat
    [pugliese@temple.edu](mailto:pugliese@temple.edu)  
    
    ___
-
-   **Coordinator:**  
-   Peggy Shadding  
-   Anderson Hall    
-   [(215) 204-8267](tel:2152048267)   
-   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
-
-___
