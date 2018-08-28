@@ -12,7 +12,7 @@ keywords: 'arabic, language, minor, certificate, course offerings'
 # custom variables
 sidebar: true
 sidebar_content: sidebars/home.html
-promotion-table: true
+promotion-table: false
 feature: true
 feature-title: Minor in Arabic
 feature-image: media/hero_bg.png
