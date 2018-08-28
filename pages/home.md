@@ -6,12 +6,13 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Earn a Minor or a Certificate of Specialization in Arabic at Temple University’s 
+  Earn a Minor or a Certificate of Specialization in Arabic at Temple University’s
   College of Liberal Arts. Learn more about our course offerings here.
 keywords: 'arabic, language, minor, certificate, course offerings'
 # custom variables
 sidebar: true
 sidebar_content: sidebars/home.html
+promotion-table: true
 feature: true
 feature-title: Minor in Arabic
 feature-image: media/hero_bg.png
