@@ -10,9 +10,8 @@ description: >-
   College of Liberal Arts. Learn more about our course offerings here.
 keywords: 'arabic, language, minor, certificate, course offerings'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/home.html
-promotion-table: false
+
+sidebar: sidebars/home.html
 feature: true
 feature-title: Minor in Arabic
 feature-image: media/hero_bg.png
