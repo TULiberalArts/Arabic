@@ -10,5 +10,7 @@ description: >-
   College of Liberal Arts work closely with our students in small, intensive classes.
 keywords: 'faculty, professors, arabic'
 # custom variables
+faculty: profiles/faculty.html
 ---
+
 Our faculty members work closely with our students in small, intensive classes.
