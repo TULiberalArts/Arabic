@@ -40,6 +40,13 @@ Arabic courses in literature, film and popular culture — all given in translat
    
    ___
    
+  **Program Director:**  
+   Gordon Witty  
+   340 Anderson Hall    
+   [gwitty@temple.edu](mailto:gwitty@temple.edu)  
+   
+   ___
+   
    **Administrator:**  
    Michelle Pugliese  
    429 Anderson Hall   
