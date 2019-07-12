@@ -31,10 +31,9 @@ Courses in literature, film and popular culture — all given in translation —
    ___
    
   **Chair:**  
-   Louis Mangione, Ph.D.  
-   347 Anderson Hall  
-   [(215) 204-8247](tel:2152048247)  
-   [mangione@temple.edu](mailto:mangione@temple.edu)  
+   Barbara Thornbury      
+   336 Anderson Hall    
+   [bthor@temple.edu](mailto:bthor@temple.edu)  
    
    ___
    
