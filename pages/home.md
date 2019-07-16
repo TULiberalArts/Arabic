@@ -10,15 +10,13 @@ description: >-
   College of Liberal Arts. Learn more about our course offerings here.
 keywords: 'arabic, language, minor, certificate, course offerings'
 # custom variables
-
 sidebar: sidebars/home.html
 feature: true
-feature-title: Minor in Arabic
+feature-title: 
 feature-image: media/hero_bg.png
 feature-body: >-
-  The minor in Arabic focuses on language skills
-  and an understanding of contemporary Arabic culture.
 ---
+## Minor in Arabic
 This program is ideal for students considering careers in international business, government service, teaching or other professions where foreign language proficiency is important. Students who place out of one or more of the Arabic language courses may replace those requirements with independent study or electives as approved by the Arabic faculty advisor. Electives must focus exclusively on Arab literature, film, history or culture.
 
 Courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of the Middle East. We strongly encourage our students to study for a semester or more in countries where Arabic is the main language of communication.
