@@ -23,7 +23,7 @@ This program is ideal for students considering careers in international business
 
 Courses in literature, film and popular culture — all given in translation — invite students from any major to develop familiarity with the cultures of the Middle East. We strongly encourage our students to study for a semester or more in countries where Arabic is the main language of communication.
 
-## Course Offerings
+## Academic Offerings
 
 - [Minor in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/arabic/arabic-minor/)
 - [Certificate of Specialization in Arabic](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-arabic/)<br/>
