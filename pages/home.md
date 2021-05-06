@@ -32,23 +32,17 @@ Courses in literature, film and popular culture — all given in translation —
    Barbara Thornbury      
    336 Anderson Hall    
    [bthor@temple.edu](mailto:bthor@temple.edu)  
-   
-   ___
-   
+      
   **Program Director:**  
    Gordon Witty  
    340 Anderson Hall    
    [gwitty@temple.edu](mailto:gwitty@temple.edu)  
-   
-   ___
    
    **Administrator:**  
    Michelle Xu  
    429 Anderson Hall   
    [(215) 204-5628](tel:2152045628)  
    [xu.michelle@temple.edu](mailto:xu.michelle@temple.edu)  
-   
-   ___
 
    **Coordinator:**  
    Stephanie Smith  
